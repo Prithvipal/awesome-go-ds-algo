@@ -12,9 +12,7 @@ func main() {
 				minIndex = j
 			}
 		}
-		minVal := arr[minIndex]
-		arr[minIndex] = arr[i]
-		arr[i] = minVal
+		arr[i], arr[minIndex] = arr[minIndex], arr[i]
 	}
 	fmt.Println(arr)
 }
