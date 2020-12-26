@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	n := 259
+	n := 260
 	count1 := getTrailingZeroInFact(n)
 	fmt.Println(count1)
 	count2 := countTrailignZeros(n)
