@@ -1,5 +1,7 @@
 # Efficient Solution
 
+**Time Complexity:** log n
+
 ```
                 |-- if n % 2 == 0
                 |      power(x, n/2) * power(x * n/2)
