@@ -1,6 +1,7 @@
 # Efficient Solution
 
 **Time Complexity:** log n
+**Auxilary Space** log n
 
 ```
                 |-- if n % 2 == 0
