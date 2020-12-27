@@ -1,6 +1,6 @@
 # Efficient Solution
 
-**Time Complexity:** log n
+**Time Complexity:** log n <br/>
 **Auxilary Space** log n
 
 ```
