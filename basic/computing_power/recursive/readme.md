@@ -1,7 +1,7 @@
-# Efficient Solution
+# Efficient Recursive Solution
 
-**Time Complexity:** log n <br/>
-**Auxilary Space** log n
+**Time Complexity:** Theta(log n) <br/>
+**Auxiliary space Space** Theta(log n)
 
 ```
                 |-- if n % 2 == 0
