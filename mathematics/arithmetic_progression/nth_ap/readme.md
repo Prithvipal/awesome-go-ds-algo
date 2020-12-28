@@ -1,1 +1,1 @@
-a_{n} = a_{1} + (n-1)d
+$a_{n} = a_{1} + (n-1)d \newline \newline where:\newline a_{n} = Nth \ term \ of \ arithmethec \ progression \newline a_{1} = First \ term \newline d = Common \ Difference$ 
