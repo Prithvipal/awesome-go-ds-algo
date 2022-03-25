@@ -6,7 +6,7 @@ func main() {
 	n := 260
 	count1 := getTrailingZeroInFact(n)
 	fmt.Println(count1)
-	count2 := countTrailignZeros(n)
+	count2 := countTrailingZeros(n)
 	fmt.Println(count2)
 
 }
@@ -22,7 +22,7 @@ func getTrailingZeroInFact(n int) int {
 	return count
 }
 
-func countTrailignZeros(n int) int {
+func countTrailingZeros(n int) int {
 	count := 0
 	for i := 5; i < n; i = i * 5 {
 		count = count + (n / i)
